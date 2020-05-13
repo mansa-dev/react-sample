@@ -14,12 +14,12 @@ return (
                 <div className="log_in_form_popup">
 
                     <button type="button" className="btn user_login_btn" data-toggle="modal" data-target="#user_login">
-                        <img src={user} alt="user_icon" />
+                        Login
                     </button>
-                   
+
                     <Loginmodal></Loginmodal>
 
-                    
+
                 </div>
             </div>
         </div>
